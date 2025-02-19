@@ -49,5 +49,5 @@ module.exports = {
         pool2: staking(farmContractsBSC, lpPairContractsBSC),
     },
     methodology:
-        "Counts liquidity on the Farms through AlpacaFarm Contracts; and there are Staking and Pool2 parts only. We export the comunity amount as Treasury Part",
+        "Counts liquidity on the Farms through AlpacaFarm Contracts; and there are Staking and Pool2 parts only. We export the community amount as Treasury Part",
 };
